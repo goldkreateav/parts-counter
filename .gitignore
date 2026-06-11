@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# данные и артефакты
+data/
+runs/
+*.pt
+*.onnx
+*.mp4
+*.avi
+*.mkv
+*.sqlite3
